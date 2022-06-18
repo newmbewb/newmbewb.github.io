@@ -6,8 +6,6 @@ layout: home
 author_profile: true
 ---
 
-# Jaehyung Ahn
-
 **Current: Staff researcher in [SAIT](https://www.sait.samsung.co.kr/saithome/main/main.do)** (May. 2019 ~ )
 
 Contact: jh2ekd_at_gmail.com
