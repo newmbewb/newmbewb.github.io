@@ -88,9 +88,10 @@ footer:
 #      url: "https://instagram.com/"
 
 defaults:
-  # _about
+  # _posts
   - scope:
-      path: "_pages/about.md"
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
