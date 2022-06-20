@@ -12,3 +12,6 @@ I am Jaehyung Ahn, Ph.D in computer science and my graduation thesis is about se
 Currently I am working on improving distributed training.
 
 If you love my work, or have any questions, please feel free to contact me.
+
+
+email: jh2ekd_at_gmail.com
