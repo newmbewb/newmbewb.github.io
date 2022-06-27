@@ -29,6 +29,8 @@ and SSD modeling, multi-tier object storage system, CPU architecture, and so on.
   - Joonsung Kim, Pyeongsu Park, **Jaehyung Ahn**, Jihun Kim, Jangwoo Kim, Jong Kim
 - **DTStorage: Dynamic tape-based storage for cost-effective and highly-available streaming service**, CCGrid 2016
   - Jaewon Lee, **Jaehyung Ahn**, Choongul Park, Jangwoo Kim
+- **Enforcing Last-level Cache Partitioning through Memory Virtual Channels**, PACT 2019
+  - Jongwook Chung, Yuhwan Ro, Joonsung Kim, **Jaehyung Ahn**, Jangwoo Kim, John Kim, Jae W. Lee, Jung Ho Ahn
 
 
 ## Education
