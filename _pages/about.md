@@ -31,6 +31,8 @@ and SSD modeling, multi-tier object storage system, CPU architecture, and so on.
   - Jaewon Lee, **Jaehyung Ahn**, Choongul Park, Jangwoo Kim
 - **Enforcing Last-level Cache Partitioning through Memory Virtual Channels**, PACT 2019
   - Jongwook Chung, Yuhwan Ro, Joonsung Kim, **Jaehyung Ahn**, Jangwoo Kim, John Kim, Jae W. Lee, Jung Ho Ahn
+- **Breaking MLPerf Training: A Case Study on Optimizing BERT**, Arxiv
+  - Yongdeok Kim, **Jaehyung Ahn**, Myeongwoo Kim, Changin Choi, Heejae Kim, Narankhuu Tuvshinjargal, Seungwon Lee, Yanzi Zhang, Yuan Pei, Xiongzhan Linghu, Jingkun Ma, Lin Chen, Yuehua Dai, Sungjoo Yoo
 
 
 ## Education
