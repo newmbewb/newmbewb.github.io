@@ -10,11 +10,10 @@ title: "About me"
 Contact: jh2ekd_at_gmail.com
 
 ## Research Experiences
-- Software-hardware / OS-application co-optimization, especially about I/O
-- Large AI model distributed training 
-- Server architecture with high performance devices
-- FPGA-based accelerator prototyping
-- Supercomputer reliability
+- Supercomputer performance modeling and hardware-software co-design for next-generation HPC systems
+- Large AI model (including LLM) distributed training and performance analysis
+- High-performance server architectures leveraging peer-to-peer communications among advanced accelerators, storage, and network interconnects
+- Reliability and scalability strategies for large-scale computing infrastructures
 
 and SSD modeling, multi-tier object storage system, CPU architecture, and so on.
 
